@@ -2,7 +2,7 @@
 In this project we have to create a prototype of a community portal similar to LinkedIn.  Users of the portal can search for Jobs as well as other users using various parameters such as First Name, Last Name, Company Name, City &amp; Country. 
 
 # Project Backround
-We have to develop the prototype of the following pages and functionalities of the portal.
+We have to develop the prototype of the following pages and functionalities of the portal for ABC Jobs.
 1. Community Portal Home Page where the main content should be there
 2. Registration Page where new users will be able to join the portal.
 3. Registration Confirmation Email will be sent to the user who successfully submit the form.
